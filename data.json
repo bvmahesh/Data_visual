@@ -1,0 +1,6 @@
+[
+  { "date": "2023-01-01", "sales": 1000, "revenue": 2000, "transactions": 50 },
+  { "date": "2023-01-02", "sales": 1200, "revenue": 2200, "transactions": 55 },
+  { "date": "2023-02-01", "sales": 1500, "revenue": 2500, "transactions": 60 }
+  // Add more daily data entries here
+]
